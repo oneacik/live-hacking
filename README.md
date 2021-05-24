@@ -45,7 +45,7 @@ b) zrobiłam update do 2 wersji Fluttera :D
 
 Razem zaczniemy pisać prostą apkę, a przy okazji nauczymy się trochę flutterowych konceptów. Na luzie, możecie przygotować sobie android studio, VS Code lub co tam chcecie i tworzyć ze mną. Można też przyjść, popatrzeć i posłuchać.
 
-25.05.21, godz. 18:00
+25.05.21 -> 01.06.21 (ZMIANA), godz. 18:00
 
 Temat: RabbitMQ x JMS x Spring
 
